@@ -19,7 +19,7 @@ I use a script like this:
 
 docker stop sf4
 docker rm sf4
-docker pull cochief/skyfactory4
+docker pull tideopl/skyfactory4
 
 docker run -d --name sf4 \
            -v /home/core/sf4/world:/minecraft/world \
