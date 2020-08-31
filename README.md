@@ -28,5 +28,5 @@ docker run -d --name sf4 \
            -v /home/core/sf4/whitelist.json:/minecraft/whitelist.json \
            --restart always \
            -p 25565:25565 \
-           cochief/skyfactory4
+           tideopl/skyfactory4
 ```
