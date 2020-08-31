@@ -9,7 +9,7 @@ https://minecraft.curseforge.com/projects/skyfactory-4
 Run the docker image by executing this command:
 
 ```
-docker run -i -p 25565:25565 --name sf4 cochief/skyfactory4
+docker run -i -p 25565:25565 --name sf4 tideopl/skyfactory4
 ```
 
 I use a script like this:
