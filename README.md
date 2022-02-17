@@ -1,6 +1,5 @@
 
-**ORIGONALLY POSTED BY CoCiefResident**
-
+**THIS IS OUTDATED**
 Skyfactory 4 Docker
 ===================
 
